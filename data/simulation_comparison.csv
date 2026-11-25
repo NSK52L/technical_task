@@ -1,0 +1,3 @@
+system,simulated_hours,captured_images,processed_images,successful_detections,images_remaining_in_queue,total_energy_Wh,total_energy_kWh,max_total_power_W,max_grid_power_W,power_budget_violation_steps,failed_60s_detection_windows,violation_steps_in_failed_windows,final_storage_temperature_C,fan_on_steps,lamp_on_steps,configuration_changes
+baseline,24,7200,7200,6018,0,1302.5999999998478,1.3025999999998479,54.305,54.305,0,3,3,35.52928470714494,0,8640,0
+adaptive,24,2880,2880,1985,0,1015.4399999999602,1.0154399999999602,42.43,42.43,0,217,1032,35.241048937720926,0,0,1
